@@ -50,7 +50,7 @@ To run the application locally, follow these steps:
 
 The project's folder structure is as follows:
 
-```text
+```bash
 - src
   -app
     - favicon.ico
